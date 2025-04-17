@@ -11,6 +11,12 @@ This API service uses Google's Gemini AI to solve audio captchas. It accepts aud
 
 ### Installation
 1. Clone the repository
+```
+git clone https://github.com/x1-2023/FuncaptchaAudioSolver.git
+```
+```
+cd FuncaptchaAudioSolver
+```
 2. Install dependencies:
 ```bash
 npm install
@@ -70,6 +76,12 @@ API này sử dụng Gemini của Google để giải captcha âm thanh. Nó nh�
 
 ### Cài đặt
 1. Clone repository
+```
+git clone https://github.com/x1-2023/FuncaptchaAudioSolver.git
+```
+```
+cd FuncaptchaAudioSolver
+```
 2. Cài đặt các dependencies:
 ```bash
 npm install
